@@ -25,3 +25,4 @@ R stands for go **right**.
 
 L stands for go **left**.
 
+User can write input puzzle in the "input" file and see the answer in the "output" file in the root folder.
